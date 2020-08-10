@@ -1,2 +1,1 @@
-SELECT * 
-FROM dim_vulnerability
+SELECT * FROM dim_asset WHERE sites = ''
