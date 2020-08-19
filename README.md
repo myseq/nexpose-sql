@@ -10,8 +10,8 @@ To list all the assets with duplicate hostname. This is useful to find out if as
 ### duplicate_ip.sql
 To list all the assets with duplicate IP address. This is useful to fing out if assets are having same/duplicate IP address.
 
-### http_admin.sql
-To list all the http/https services information (banner/issuer/subject/validation). This can be used for **threat intel** to discover all the firewall/vpn/load-balancer management interfaces that facing external (Internet) network.
+### :octocat: http_admin.sql 
+> To list all the http/https services information (banner/issuer/subject/validation). This can be used for **threat intel** to discover all the firewall/vpn/load-balancer management interfaces that facing external (Internet) network.
 
 ### service_portfolio.sql 
 To list the count and the assets by service/port. This can be used for creating the **service portfolio** for a group of assets. 
